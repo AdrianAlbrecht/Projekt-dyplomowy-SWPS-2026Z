@@ -321,7 +321,7 @@ Dokumentacja powinna pozwalać **zobaczyć i zrozumieć wytwór bez koniecznośc
 
 Do zaliczenia przedmiotu wymagane jest:
 
-1. uzyskanie **co najmniej 50 punktów na 100**,
+1. uzyskanie **co najmniej 51 punktów na 100**,
 2. przedstawienie wytworu,
 3. dostarczenie opisu wytworu,
 4. dostarczenie dokumentacji wytworu.
@@ -336,12 +336,12 @@ Tak samo samo wykonanie wytworu bez jego odpowiedniego opisania i udokumentowani
 
 | Punkty | Ocena |
 |---:|:---:|
-| **0–49** | **2,0** |
-| **50–59** | **3,0** |
-| **60–69** | **3,5** |
-| **70–79** | **4,0** |
-| **80–89** | **4,5** |
-| **90–100** | **5,0** |
+| **0–50** | **2,0** |
+| **51–60** | **3,0** |
+| **61–70** | **3,5** |
+| **71–80** | **4,0** |
+| **81–90** | **4,5** |
+| **91–100** | **5,0** |
 
 ---
 
